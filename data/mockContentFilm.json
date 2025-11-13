@@ -1,0 +1,39 @@
+{
+  "Films": [
+    {
+      "id": 1,
+      "title": "رسالة سامية/ سـئلـت أجبت، ما حروفي سوى نبض تطاير دون تحضير مسبق",
+      "thumbnail": "/media/images/samia31.jpg",
+      "videoUrl": "/media/videos/videoplayback (30).mp4",
+      "description": "We understand the profound impact stories can have and the desire to share them widely. Unfortunately, there was a lack of accessible guidance for aspiring documentary ..."
+    },
+    {
+      "id": 2,
+      "title": "خطاب التنمية والعدالة بين التأمل والأمل وبين التسطيح والتشكيك",
+      "thumbnail": "/media/images/enq38.jpg",
+      "videoUrl": "/media/videos/videoplayback (36).mp4",
+      "description": "We understand the profound impact stories can have and the desire to share them widely. Unfortunately, there was a lack of accessible guidance for aspiring documentary ..."
+    },
+    {
+      "id": 3,
+      "title": "حب الذات ليس أنانية… سامية تكشف المعنى الحقيقي الحلقة",
+      "thumbnail": "/media/images/samia27.jpg",
+      "videoUrl": "/media/videos/videoplayback (34).mp4",
+      "description": "We understand the profound impact stories can have and the desire to share them widely. Unfortunately, there was a lack of accessible guidance for aspiring documentary ..."
+    },
+    {
+      "id": 4,
+      "title": "من هم؟ وماذا يريدون؟ هل هي أزمة عابرة أم تحوّل تاريخي؟",
+      "thumbnail": "/media/images/enq37.jpg",
+      "videoUrl": "/media/videos/videoplayback (37).mp4",
+      "description": "We understand the profound impact stories can have and the desire to share them widely. Unfortunately, there was a lack of accessible guidance for aspiring documentary ..."
+    },
+    {
+      "id": 5,
+      "title": "رسالة سامية / كـــــن كالـــمــطـــر أينما وقع نفع",
+      "thumbnail": "/media/images/samia30.jpg",
+      "videoUrl": "/media/videos/videoplayback (31).mp4",
+      "description": "We understand the profound impact stories can have and the desire to share them widely. Unfortunately, there was a lack of accessible guidance for aspiring documentary ..."
+    }
+  ]
+}

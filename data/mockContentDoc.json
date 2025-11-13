@@ -1,0 +1,28 @@
+{
+  "Documentary": [
+    {
+      "id": 1,
+      "title": "رسالة سامية/ سـئلـت أجبت، ما حروفي سوى نبض تطاير دون تحضير مسبق",
+      "thumbnail": "/media/images/samia31.jpg",
+      "videoUrl": "/media/videos/videoplayback (30).mp4",
+      "description": "We understand the profound impact stories can have and the desire to share them widely. Unfortunately, there was a lack of accessible guidance for aspiring documentary ...",
+      "slug": "Samia",
+      "host": "Samia",
+      "category": "Culture",
+      "duration": "0:05",
+      "date": "31 Octobre 2025"
+    },
+    {
+      "id": 2,
+      "title": "خطاب التنمية والعدالة بين التأمل والأمل وبين التسطيح والتشكيك",
+      "thumbnail": "/media/images/enq38.jpg",
+      "videoUrl": "/media/videos/videoplayback (36).mp4",
+      "description": "We understand the profound impact stories can have and the desire to share them widely. Unfortunately, there was a lack of accessible guidance for aspiring documentary ...",
+      "slug": "Avec l'enquêteur",
+      "host": "Dr.Abdelhadi Mazrari",
+      "category": "Culture",
+      "duration": "0:05",
+      "date": "04 Octobre 2025"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "Documentary": [
+    {
+      "id": 1,
+      "title": "Good time",
+      "thumbnail": "https://ibdaetv.ma/wp-content/uploads/2025/09/2149066323.jpg",
+      "videoUrl": "https://ibdaetv.ma/wp-content/uploads/2025/09/2149066323.jpg",
+      "description": "Un documentaire sur l'eau..."
+    },
+    {
+      "id": 2,
+      "title": "Marcher sur l'eau",
+      "thumbnail": "https://ibdaetv.ma/wp-content/uploads/2025/09/2149066323-1.png",
+      "videoUrl": "https://ibdaetv.ma/wp-content/uploads/2025/09/2149066323-1.png",
+      "description": "Un documentaire sur l'eau..."
+    },
+    {
+      "id": 3,
+      "title": "best choose",
+      "thumbnail": "https://ibdaetv.ma/wp-content/uploads/2025/09/2149066323.jpg",
+      "videoUrl": "https://ibdaetv.ma/wp-content/uploads/2025/09/2149066323.jpg",
+      "description": "Un documentaire sur l'eau..."
+    },
+    {
+      "id": 4,
+      "title": "super spirit",
+      "thumbnail": "https://ibdaetv.ma/wp-content/uploads/2025/09/2149066323-1.png",
+      "videoUrl": "https://ibdaetv.ma/wp-content/uploads/2025/09/2149066323-1.png",
+      "description": "Un documentaire sur l'eau..."
+    }
+  ],
+  "reportage": [
+    {
+      "id": 3,
+      "title": "Chefchaouen la charmante",
+      "thumbnail": "/img/chefchaouen.jpg",
+      "videoUrl": "/videos/chefchaouen.mp4"
+    }
+  ],
+  "podcast": [
+    {
+      "id": 4,
+      "title": "Le rôle de la politique",
+      "thumbnail": "/img/politique.jpg",
+      "audioUrl": "/audios/politique.mp3"
+    }
+  ],
+  "capsule": [],
+  "rapport": []
+}

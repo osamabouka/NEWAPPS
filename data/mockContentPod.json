@@ -1,0 +1,56 @@
+{
+  "Podcasts": [
+    {
+      "id": 1,
+      "title": "vvvvv",
+      "thumbnail": "vvvvvv",
+      "videoUrl": "vvvvv",
+      "description": "vvvvv",
+      "slug": "With Samia",
+      "host": "With Samia",
+      "duration": "0:05",
+      "cover": "/media/images/SamiaCo.png",
+      "category": "Culture",
+      "date": "10 nov. 2025"
+    },
+    {
+      "id": 2,
+      "title": "giddy",
+      "thumbnail": "gddgdg",
+      "videoUrl": "gdgdg",
+      "description": "gdgdg",
+      "slug": "Avec l'enquêteur",
+      "duration": "0:05",
+      "host": "Dr.Abdelhadi Mazrari",
+      "cover": "/media/images/EnqCov.png",
+      "category": "Politique",
+      "date": "10 nov. 2025"
+    },
+    {
+      "id": 3,
+      "slug": "Avec l'enquêteur",
+      "host": "Dr.Abdelhadi Mazrari",
+      "title": "خطاب التنمية والعدالة بين التأمل والأمل وبين التسطيح والتشكيك",
+      "description": "We understand the profound impact stories can have and the desire to share them widely ...",
+      "thumbnail": "/media/images/enq38.jpg",
+      "duration": "1h 06 min",
+      "date": "14 Octobre 2025",
+      "videoUrl": "/media/videos/videoplayback (36).mp4",
+      "cover": "/media/images/EnqCov.png",
+      "category": "Politique"
+    },
+    {
+      "id": 4,
+      "slug": "Avec l'enquêteur",
+      "host": "Dr.Abdelhadi Mazrari",
+      "title": "من هم؟ وماذا يريدون؟ هل هي أزمة عابرة أم تحوّل تاريخي؟",
+      "description": "We understand the profound impact stories can have and the desire to share them widely ...",
+      "thumbnail": "/media/images/enq37.jpg",
+      "duration": "1h 43 min",
+      "date": "04 Octobre 2025",
+      "videoUrl": "/media/videos/videoplayback (37).mp4",
+      "cover": "/media/images/EnqCov.png",
+      "category": "Politique"
+    }
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "Episodes": [
+    {
+      "id": 101,
+      "podcastId": 2,
+      "slug": "Avec l'enquêteur",
+      "host": "Dr.Abdelhadi Mazrari",
+      "title": "جيل Z يطالب، الملك يقرر، فهل انتهى زمن الصمت",
+      "thumbnail": "/media/images/enq39.jpg",
+      "duration": "1h 25 min",
+      "date": "24 Octobre 2025",
+      "videoUrl": "/media/videos/videoplayback (35).mp4"
+    },
+    {
+      "id": 103,
+      "podcastId": 1,
+      "title": "رسالة سامية/ سـئلـت أجبت، ما حروفي سوى نبض تطاير دون تحضير مسبق",
+      "thumbnail": "/media/images/samia31.jpg",
+      "duration": "28 min",
+      "date": "31 Octobre 2025",
+      "slug": "With Samia",
+      "host": "Samia",
+      "videoUrl": "/media/videos/videoplayback (30).mp4"
+    },
+    {
+      "id": 104,
+      "podcastId": 1,
+      "title": "رسالة سامية / كـــــن كالـــمــطـــر أينما وقع نفع",
+      "thumbnail": "/media/images/samia30.jpg",
+      "duration": "27 min",
+      "date": "17 Octobre 2025",
+      "slug": "With Samia",
+      "host": "Samia",
+      "videoUrl": "/media/videos/videoplayback (31).mp4"
+    },
+    {
+      "id": 105,
+      "podcastId": 1,
+      "title": "رسالة سامية / لحظات الضعف لا تُنقصك بل تُعلمك",
+      "thumbnail": "/media/images/samia29.jpg",
+      "duration": "25 min",
+      "date": "10 Octobre 2025",
+      "slug": "With Samia",
+      "host": "Samia",
+      "videoUrl": "/media/videos/videoplayback (32).mp4"
+    },
+    {
+      "id": 106,
+      "podcastId": 1,
+      "title": "رسالة سامية البداية منك… كن مبادرًا!",
+      "thumbnail": "/media/images/samia28.jpg",
+      "duration": "24 min",
+      "date": "03 Octobre 2025",
+      "slug": "With Samia",
+      "host": "Samia",
+      "videoUrl": "/media/videos/videoplayback (33).mp4"
+    },
+    {
+      "id": 107,
+      "podcastId": 1,
+      "title": "حب الذات ليس أنانية… سامية تكشف المعنى الحقيقي الحلقة",
+      "thumbnail": "/media/images/samia27.jpg",
+      "duration": "16 min",
+      "date": "01 Octobre 2025",
+      "slug": "With Samia",
+      "host": "Samia",
+      "videoUrl": "/media/videos/videoplayback (34).mp4"
+    },
+    {
+      "id": 108,
+      "podcastId": 2,
+      "slug": "Avec l'enquêteur",
+      "host": "Dr.Abdelhadi Mazrari",
+      "title": "خطاب التنمية والعدالة بين التأمل والأمل وبين التسطيح والتشكيك",
+      "thumbnail": "/media/images/enq38.jpg",
+      "duration": "1h 06 min",
+      "date": "14 Octobre 2025",
+      "videoUrl": "/media/videos/videoplayback (36).mp4"
+    },
+    {
+      "id": 109,
+      "podcastId": 2,
+      "slug": "Avec l'enquêteur",
+      "host": "Dr.Abdelhadi Mazrari",
+      "title": "من هم؟ وماذا يريدون؟ هل هي أزمة عابرة أم تحوّل تاريخي؟",
+      "thumbnail": "/media/images/enq37.jpg",
+      "duration": "1h 43 min",
+      "date": "04 Octobre 2025",
+      "videoUrl": "/media/videos/videoplayback (37).mp4"
+    },
+    {
+      "id": 110,
+      "podcastId": 1,
+      "title": "fff",
+      "description": "sss",
+      "thumbnail": "bbb",
+      "videoUrl": "qqq",
+      "duration": "0:05",
+      "date": "10 nov. 2025"
+    },
+    {
+      "id": 111,
+      "podcastId": 1,
+      "title": "vvvvv",
+      "description": "vvvvv",
+      "thumbnail": "vvvvvv",
+      "videoUrl": "vvvvv",
+      "duration": "0:05",
+      "date": "10 nov. 2025",
+      "slug": "With Samia",
+      "host": "With Samia"
+    },
+    {
+      "id": 112,
+      "podcastId": 2,
+      "title": "giddy",
+      "description": "gdgdg",
+      "thumbnail": "gddgdg",
+      "videoUrl": "gdgdg",
+      "duration": "0:05",
+      "date": "10 nov. 2025",
+      "slug": "Avec l'enquêteur",
+      "host": "Dr.Abdelhadi Mazrari"
+    }
+  ]
+}

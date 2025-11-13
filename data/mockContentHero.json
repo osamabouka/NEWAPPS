@@ -1,0 +1,22 @@
+{
+  "slides": [
+    {
+      "author": "Meryem Jouahri",
+      "title": "Quand la créativité rencontre la profondeur",
+      "image": "/media/images/tes2.png",
+      "link": "/category/documentary"
+    },
+    {
+      "author": "Omar El Fassi",
+      "title": "Explorer la culture à travers des récits vivants",
+      "image": "/media/images/tes3.png",
+      "link": "/category/podcasts"
+    },
+    {
+      "author": "Ibdae Team",
+      "title": "Un monde d’idées et d’innovations",
+      "image": "/media/images/tes4.png",
+      "link": "/category/innovations"
+    }
+  ]
+}
